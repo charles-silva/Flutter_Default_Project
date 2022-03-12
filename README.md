@@ -2,7 +2,7 @@
 
 Exemplo de um projeto padrão para ser utilizado em qualquer projeto.
 
-## Packages
+<h2 align="center">Packages 🤔</h2>
 
   ```
   - cupertino_icons: ^1.0.2
