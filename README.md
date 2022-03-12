@@ -1,11 +1,16 @@
-# i9resto
+# Flutter Default Project
 
-A new Flutter project.
+Exemplo de um projeto padrão para ser utilizado em qualquer projeto.
 
-## Getting Started
+## Packages
 
-This project is a starting point for a Flutter application.
----
+  cupertino_icons: ^1.0.2
+  flutter_modular: ^4.5.0
+  mobx: ^2.0.6+1
+  flutter_mobx: ^2.0.4
+  asuka: ^2.0.0+1
+  dio: ^4.0.4
+  flutter_screenutil: ^5.3.1
 
 <h2 align="center">Como Usar 🤔</h2>
 
