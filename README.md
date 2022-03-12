@@ -14,7 +14,7 @@ This project is a starting point for a Flutter application.
    $ git clone https://github.com/charles-silva/Flutter_Default_Project.git
 
    - Entre no diretório:
-   $ cd masterclass-app
+   $ cd Flutter_Default_Project
 
    - Instale as dependências:
    $ flutter pub get
